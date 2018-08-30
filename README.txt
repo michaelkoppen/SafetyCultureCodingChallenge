@@ -5,7 +5,7 @@ Running Instructions:
 	
 
 Testing Instructions:
-	- Right click fridgeSensors.py and open with python.exe.
+	- Right click fridgeSensorsTest.py and open with python.exe.
 	or
 	- Open fridgeSensorsTest.py with an IDE such as pyCharm and run within it.
 	- Doing either of these will run three tests proving that the calculateAverages, calculateMedians, and calculateModes functions to produce accurate results.
